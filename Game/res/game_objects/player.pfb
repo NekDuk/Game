@@ -1,0 +1,6 @@
+ID: player;
+Name: Player;
+SpriteID: duck;
+Components:
+	>Player
+		#speed = 10

@@ -1,0 +1,6 @@
+ID: tri;
+Name: Tricycle;
+SpriteID: tricycle;
+
+Components:
+	>Obstacle
